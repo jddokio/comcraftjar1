@@ -1,0 +1,19 @@
+.install {
+  text-decoration: none;
+  color: black;
+}
+.body {
+  width: 70px;
+  line-height: 100%;
+  background-color: lime;
+  border: 1px black solid;
+}
+.bg {
+  background-image: url(bg.jpg);
+}
+.body:hover {
+  background-color: green;
+}
+.install:hover {
+  color: white;
+}
